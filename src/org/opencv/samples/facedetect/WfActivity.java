@@ -1,4 +1,4 @@
-package org.opencv.samples.facedetect;
+
 
 import static java.lang.String.format;
 
